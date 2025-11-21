@@ -50,12 +50,8 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
-
 ai
+ai agent
 !gai
 人工智能
 
@@ -68,7 +64,3 @@ ai
 
 美国
 日本
-韩国
-
-芯片
-光刻机
